@@ -8,8 +8,8 @@
   "main": "pluginbot.js",
   "license": "MIT",
   "dependencies": {
-    "redux": "^3.7.2",
-    "redux-saga": "^0.15.6"
+    "redux": "^4.0.5",
+    "redux-saga": "^0.16.2"
   },
   "babel": {
     "presets": [
